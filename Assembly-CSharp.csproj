@@ -62,6 +62,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\SpeedController.cs" />
+    <Compile Include="Assets\StarCollectible.cs" />
+    <Compile Include="Assets\GameManager.cs" />
+    <Compile Include="Assets\DustCollectible.cs" />
     <Compile Include="Assets\RobotCollision2D.cs" />
     <Compile Include="Assets\RobotVacuum2D.cs" />
   </ItemGroup>

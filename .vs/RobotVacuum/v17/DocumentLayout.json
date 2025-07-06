@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\RobotVacuum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09946037-AEA5-48FF-4BBD-CB1372FF9FE0}|Assembly-CSharp.csproj|c:\\users\\admin\\robotvacuum\\assets\\speedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09946037-AEA5-48FF-4BBD-CB1372FF9FE0}|Assembly-CSharp.csproj|solutionrelative:assets\\speedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09946037-AEA5-48FF-4BBD-CB1372FF9FE0}|Assembly-CSharp.csproj|c:\\users\\admin\\robotvacuum\\assets\\dustcollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09946037-AEA5-48FF-4BBD-CB1372FF9FE0}|Assembly-CSharp.csproj|solutionrelative:assets\\dustcollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09946037-AEA5-48FF-4BBD-CB1372FF9FE0}|Assembly-CSharp.csproj|c:\\users\\admin\\robotvacuum\\assets\\robotcollision2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09946037-AEA5-48FF-4BBD-CB1372FF9FE0}|Assembly-CSharp.csproj|solutionrelative:assets\\robotcollision2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09946037-AEA5-48FF-4BBD-CB1372FF9FE0}|Assembly-CSharp.csproj|C:\\Users\\Admin\\RobotVacuum\\assets\\robotvacuum2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09946037-AEA5-48FF-4BBD-CB1372FF9FE0}|Assembly-CSharp.csproj|solutionrelative:assets\\robotvacuum2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09946037-AEA5-48FF-4BBD-CB1372FF9FE0}|Assembly-CSharp.csproj|c:\\users\\admin\\robotvacuum\\assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09946037-AEA5-48FF-4BBD-CB1372FF9FE0}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,42 +33,54 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SpeedController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\RobotVacuum\\Assets\\SpeedController.cs",
-              "RelativeDocumentMoniker": "Assets\\SpeedController.cs",
-              "ToolTip": "C:\\Users\\Admin\\RobotVacuum\\Assets\\SpeedController.cs",
-              "RelativeToolTip": "Assets\\SpeedController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAcwCIAAAABAAAAAAAAAA==",
+              "Title": "DustCollectible.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RobotVacuum\\Assets\\DustCollectible.cs",
+              "RelativeDocumentMoniker": "Assets\\DustCollectible.cs",
+              "ToolTip": "C:\\Users\\Admin\\RobotVacuum\\Assets\\DustCollectible.cs",
+              "RelativeToolTip": "Assets\\DustCollectible.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T03:03:03.212Z",
+              "WhenOpened": "2025-07-06T10:45:27.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RobotCollision2D.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\RobotVacuum\\Assets\\RobotCollision2D.cs",
-              "RelativeDocumentMoniker": "Assets\\RobotCollision2D.cs",
-              "ToolTip": "C:\\Users\\Admin\\RobotVacuum\\Assets\\RobotCollision2D.cs",
-              "RelativeToolTip": "Assets\\RobotCollision2D.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\RobotVacuum\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\RobotVacuum\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T02:58:41.976Z",
+              "WhenOpened": "2025-07-06T10:36:55.441Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RobotVacuum2D.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\RobotVacuum\\Assets\\RobotVacuum2D.cs",
-              "RelativeDocumentMoniker": "Assets\\RobotVacuum2D.cs",
-              "ToolTip": "C:\\Users\\Admin\\RobotVacuum\\Assets\\RobotVacuum2D.cs",
-              "RelativeToolTip": "Assets\\RobotVacuum2D.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T02:57:06.496Z"
             }
           ]
         }
